@@ -17,10 +17,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height="48">
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" alt="Maya" height="48">
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" height="48">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" height="48" style="color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" height="48" style="fill: white;">
 </div>
 
 ## Aprendiendo
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="48">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJs" height="48">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="48">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJs" height="48" style="fill: white;">
+</div>
