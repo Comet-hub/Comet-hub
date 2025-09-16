@@ -1,6 +1,6 @@
 <div align= "center">
   <h1>Hola, soy Camilo C.</h1>
-  <p>Ingeniero Multimedia | Desarrollador Front-end | Diseñador web</p>
+  <p>Ing Multimedia & Front-end Dev
 </div>
 
 ## Herramientas
